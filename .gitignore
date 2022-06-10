@@ -45,7 +45,7 @@ jspm_packages/
 typings/
 
 # TypeScript cache
-*.tsbuildinfo
+# *.tsbuildinfo
 
 # Optional npm cache directory
 .npm
@@ -76,7 +76,7 @@ typings/
 .cache
 
 # Next.js build output
-.next
+# .next
 
 # Nuxt.js build / generate output
 .nuxt
@@ -113,7 +113,7 @@ dist
 /coverage
 
 # production
-/build
+# /build
 
 # misc
 .DS_Store
